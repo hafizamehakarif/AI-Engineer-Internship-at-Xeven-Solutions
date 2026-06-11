@@ -1,0 +1,16 @@
+{
+    "database": {
+        "host": "localhost",
+        "port": 5432,
+        "name": "myapp_db"
+    },
+    "api_keys": {
+        "openai": "your-key-here",
+        "huggingface": "your-hf-key"
+    },
+    "features": {
+        "enable_logging": true,
+        "max_retries": 3,
+        "debug_mode": false
+    }
+}

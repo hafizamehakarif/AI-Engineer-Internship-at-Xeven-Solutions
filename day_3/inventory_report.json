@@ -1,0 +1,46 @@
+{
+    "products": {
+        "P001": {
+            "name": "Laptop",
+            "price": 1200.0,
+            "quantity": 3,
+            "category": "Electronics"
+        },
+        "P002": {
+            "name": "Mouse",
+            "price": 25.0,
+            "quantity": 70,
+            "category": "Electronics"
+        },
+        "P003": {
+            "name": "Desk Chair",
+            "price": 150.0,
+            "quantity": 8,
+            "category": "Furniture"
+        },
+        "P004": {
+            "name": "Notebook",
+            "price": 2.5,
+            "quantity": 200,
+            "category": "Stationery"
+        }
+    },
+    "total_value": 7050.0,
+    "average_price_per_category": {
+        "Electronics": 612.5,
+        "Furniture": 150.0,
+        "Stationery": 2.5
+    },
+    "low_stock_items": [
+        [
+            "P001",
+            "Laptop",
+            3
+        ],
+        [
+            "P003",
+            "Desk Chair",
+            8
+        ]
+    ]
+}
