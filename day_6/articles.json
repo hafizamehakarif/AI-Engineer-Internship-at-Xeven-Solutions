@@ -1,0 +1,47 @@
+[
+    {
+        "title": "OpenAI Launches New Initiative to Improve AI Education",
+        "author": "Unknown",
+        "published_date": "June 10, 2026",
+        "summary": "OpenAI announced a new initiative to improve AI education worldwide by providing free learning resources to students and educators.",
+        "tags": [
+            "AI Education",
+            "OpenAI",
+            "AI Literacy"
+        ]
+    },
+    {
+        "title": "New Solar Panel Technology Developed",
+        "author": "MIT scientists",
+        "published_date": "May 15, 2026",
+        "summary": "Researchers developed a new solar panel technology that improves efficiency",
+        "tags": [
+            "solar panel",
+            "technology",
+            "MIT",
+            "research"
+        ]
+    },
+    {
+        "title": "NASA Announces Plans for Next Lunar Mission",
+        "author": "Unknown",
+        "published_date": "Unknown",
+        "summary": "NASA announced plans for its next lunar mission, focusing on sustainable human presence on the Moon.",
+        "tags": [
+            "NASA",
+            "Lunar Mission",
+            "Space Exploration"
+        ]
+    },
+    {
+        "title": "Cybersecurity Threats on the Rise",
+        "author": "Unknown",
+        "published_date": "Unknown",
+        "summary": "Experts warn about rising cybersecurity threats affecting businesses globally. Organizations are encouraged to strengthen their defenses.",
+        "tags": [
+            "Cybersecurity",
+            "Business",
+            "Technology"
+        ]
+    }
+]
