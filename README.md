@@ -20,6 +20,7 @@ The internship follows a hands-on learning approach where theoretical concepts a
 As an AI Engineer Intern, I focus on understanding and building AI-powered applications using modern tools and frameworks. My work involves researching concepts, implementing them from scratch, documenting key learnings, and applying them in practical projects.
 
 The internship roadmap covers a broad range of AI Engineering topics, including:
+---
 
 | Day | Focus Area                                      |
 | --- | ----------------------------------------------- |
