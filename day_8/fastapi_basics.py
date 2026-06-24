@@ -98,7 +98,6 @@ def create_item(item: ItemCreate):
 
 
 # RUN THE SERVER
-cd
 if __name__ == "__main__":
     import uvicorn
     uvicorn.run("fastapi_basics:app", host="127.0.0.1", port=8000, reload=True)
